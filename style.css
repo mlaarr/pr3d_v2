@@ -25,7 +25,7 @@ header {
 }
 
 .header {
-    background-image: url("/img/IMG_2210.JPG");
+    background-image: url("img/IMG_2210.jpg");
     background-size: cover;
     animation: fadeIn 0.4s ease-in-out;
     height: 100vh;
